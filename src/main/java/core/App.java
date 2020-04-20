@@ -4,6 +4,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Darima Dambaeva" );
+        System.out.println( "Irina Dambaeva" );
     }
 }
